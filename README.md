@@ -1,0 +1,1 @@
+Backend repository of the YAMA (Yet Another Messaging App) project.
